@@ -1,4 +1,4 @@
--# 1TI
+# 1TI
 Repo des 1TI
 ## Rejoindre la team 1TI
 La team est ouverte à tous les 1TI, une simple demande et quelqu'un vous ajoutera.
